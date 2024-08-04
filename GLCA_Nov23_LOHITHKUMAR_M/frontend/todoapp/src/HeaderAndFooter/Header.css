@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to right, skyblue, cornflowerblue, royalblue);
+    height: 100%;
+    width: 100%
+}
+
+.bg {
+    background: linear-gradient(to right, skyblue, lightseagreen, mediumturquoise, royalblue);
+    height: 100%;
+    width: 100%
+}
+
+.search {
+    background: linear-gradient(to right, skyblue, aquamarine, mediumturquoise, royalblue);
+    height: 100%;
+    width: 100%
+}
+
+.todolist-bg {
+    background: linear-gradient(to right, skyblue, cornflowerblue, royalblue);
+    height: 100%;
+    width: 100%
+}
+
+table,
+thead {
+    color: snow;
+}
+
+table {
+    background: linear-gradient(to right, #916473, royalblue);
+    border-radius: .4em;
+    backdrop-filter: blur(7px);
+    width: 1000px;
+    margin: auto;
+
+}
+
+table,
+tr {
+    height: 50px;
+    text-align: center;
+
+}
+
+tr:hover {
+
+    background: linear-gradient(to right, #edc7b7, #ce6c8d, #eee2dc);
+    width: 100%;
+    backdrop-filter: blur(10px);
+}
+
+header {
+    background: linear-gradient(to right, navy, mediumblue, royalblue, navy);
+    color: white;
+    padding: 20px;
+
+}
+
+footer {
+    background-color: rgb(24, 3, 84);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-top: 411px
+}
